@@ -1,4 +1,6 @@
 # basic calculator
+def calculator(a, b):
+    input
 # prime number checker
 # gcd finder
 # lcm finder
